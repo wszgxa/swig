@@ -1,3 +1,3 @@
-DO NOT MAKE CHANGES TO THIS BRANCH.
+## swig document
 
-All changes should be made on the master branch. Test documentation using `make docs` and only run `make gh-pages` when you're ready to publish the site live!
+The [page](http://paularmstrong.github.io/swig/) is out of work, so I copy from [swig](https://github.com/paularmstrong/swig).
